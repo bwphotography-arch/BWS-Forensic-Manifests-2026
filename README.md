@@ -14,8 +14,7 @@ This repository contains the technical manifests and audit logs for the BWS Prop
 - **Chain of Title:** 100% creator-owned. Zero third-party scraping.
 
 ## 📂 Ingestion Manifests
-- `BWS_Buyout_Master_Count.csv`: Complete high-level inventory.
-- `V12_ServiceMax_Set.csv`: Detailed attributes for the 16k corporate/service-industry batch.
+- BWS_Full_Compliance_Manifest.csv: Complete high-level inventory.
 
 ## 💰 Acquisition Contact
 To initiate a 48-hour "Fast-Close" acquisition or request a $500 Enterprise POC (Proof of Concept) pack, contact:

@@ -14,7 +14,7 @@ This repository contains the technical manifests and audit logs for the BWS Prop
 - **Chain of Title:** 100% creator-owned. Zero third-party scraping.
 
 ## 📂 Ingestion Manifests
-- BWS_CLEAR_MASTER_MANIFEST.csv: Complete high-level inventory.
+BWS_CLEAR_MASTER_MANIFEST.csv: Complete high-level inventory.
 ## 💰 Acquisition Contact
 To initiate a 48-hour "Fast-Close" acquisition or request any 25+ images set starting at $500. Enterprise POC (Proof of Concept) pack, contact:
 - **Email:** info@brettwilliams.org

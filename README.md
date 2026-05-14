@@ -1,21 +1,40 @@
 # BWS Master Archive: Forensic Manifests (2026-V12)
 
-This repository contains the technical manifests and audit logs for the BWS Proprietary Asset Archive (500k+ high-bitrate human-subject assets). 
+**Enterprise-Grade, CLEAR Act 2026 Compliant Human Subject Dataset**
 
-## 🛠 Technical Specifications
-- **Total Assets:** 534,651
-- **Formatting:** Sanitized Path ingestion
-- **Integrity:** MD5 hashing included for all localized assets
-- **Optimization:** Localized VLM-verified tags for ethnicity, garment types, and service-industry contexts
+This repository contains complete technical manifests, MD5/SHA256 hashes, and audit logs for the **BWS Master Archive** — **534,651+** high-bitrate, human-subject photographic assets.
 
-## ⚖️ Compliance & Provenance
-- **CLEAR Act 2026:** Fully compliant. These manifests serve as the "sufficiently detailed summary" for federal AI disclosure.
-- **GDPR Alignment:** Strict adherence to EU transparency and purpose limitation standards.
-- **Chain of Title:** 100% creator-owned. Zero third-party scraping.
+### Why BWS Data Solutions?
+- **100% Creator-Owned** — Zero third-party scraping
+- **CLEAR Act 2026 Compliant** — Federally ready documentation
+- **GDPR Aligned** + Full Chain of Title
+- **VLM / Diffusion Optimized** — Rich localized metadata (ethnicity, garment type, lighting, pose, service context, etc.)
+- **Forensic Integrity** — Every file hashed and verifiable
 
-## 📂 Ingestion Manifests
-BWS_CLEAR_MASTER_MANIFEST.csv: Complete high-level inventory.
-## 💰 Acquisition Contact
-To initiate a 48-hour "Fast-Close" acquisition or request any 25+ images set starting at $500. Enterprise POC (Proof of Concept) pack, contact:
-- **Email:** info@brettwilliams.org
-- **Payment:** USDC/USDT via Coinbase/Robinhood
+### 📊 Archive Overview
+- **Total Assets**: 534,651
+- **Total Size**: ~2.8 TB (RAW + JPEG)
+- **Capture Period**: 2018–2026
+- **Categories**: Studio Fashion, Executive Portraits, Adult Lifestyle, Service Industry, Jewelry/Accessories, Teen/Junior, and more
+
+### 📁 Available Manifests
+
+| File | Assets | Description |
+|------|--------|-----------|
+| `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
+| `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion |
+| `02_Photo_Booth_Series_100_JPEGs_Manifest.csv` | 100 | Photo booth series |
+| `03_La_Perla_lingerie_30_JPEGs_Manifest.csv` | 30 | Lingerie |
+| ... | ... | Full list in repo |
+
+### 🚀 Quick Start
+
+```bash
+git clone https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git
+cd BWS-Forensic-Manifests-2026
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Explore the data
+python example_loader.py

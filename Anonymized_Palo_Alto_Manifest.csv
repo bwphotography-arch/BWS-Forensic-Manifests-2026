@@ -1,4 +1,5 @@
 # BWS Master Archive: Forensic Manifests (2026-V12)
+
 **Enterprise-Grade, CLEAR Act 2026 Compliant Human Subject Dataset**
 
 This repository contains complete technical manifests, MD5/SHA256 hashes, and audit logs for the **BWS Master Archive** — **534,651+** high-bitrate, human-subject photographic assets.
@@ -25,7 +26,7 @@ BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compl
 ## 📁 Available Manifests
 
 | File | Assets | Description |
-| :--- | :--- | :--- |
+|---|---|---|
 | `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
 | `Anonymized_Palo_Alto_Manifest.csv` | 4,400 | Anonymized high-bitrate portraits |
 | `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion samples |

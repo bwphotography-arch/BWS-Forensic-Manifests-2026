@@ -24,18 +24,15 @@ BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compl
 - **Categories**: Studio Fashion, Executive Portraits, Adult Lifestyle, Service Industry, Jewelry/Accessories, Teen/Junior, and more
 
 ## 📁 Available Manifests
-
-| File | Assets | Description |
-| --- | --- | --- |
-| `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
-| `Anonymized_Palo_Alto_Manifest.csv` | 4,400 | Anonymized high-bitrate portraits |
-| `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion samples |
-| `02_Photo_Booth_Series_100_JPEGs_Manifest.csv` | 100 | Photo booth series |
-| `03_La_Perla_lingerie_30_JPEGs_Manifest.csv` | 30 | Lingerie |
+* **`BWS_CLEAR_MASTER_MANIFEST_2026.csv`** (534,651 Assets) — Master inventory + high-level summary.
+* **`Anonymized_Palo_Alto_Manifest.csv`** (4,400 Assets) — Anonymized high-bitrate portraits.
+* **`01_Studio_Fashion_60_JPEGs_Manifest.csv`** (60 Assets) — Studio fashion samples.
+* **`02_Photo_Booth_Series_100_JPEGs_Manifest.csv`** (100 Assets) — Photo booth series.
+* **`03_La_Perla_lingerie_30_JPEGs_Manifest.csv`** (30 Assets) — Lingerie.
 
 ## 🚀 Quick Start & Ingestion
 Clone the repository to explore the forensic manifests:
 
 ```bash
-git clone https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git
+git clone [https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git](https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git)
 cd BWS-Forensic-Manifests-2026

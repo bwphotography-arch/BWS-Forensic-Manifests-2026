@@ -1,42 +1,41 @@
----
-license: other
-language:
-- en
-tags:
-- image-dataset
-- computer-vision
-- biometric-anonymized
-- clear-act-2026
-- enterprise-ready
-size_categories:
-- 1K<n<10K
----
+# BWS Master Archive: Forensic Manifests (2026-V12)
 
-# Anonymized Palo Alto Human-Subject Portrait Dataset (POC Archive)
+**Enterprise-Grade, CLEAR Act 2026 Compliant Human Subject Dataset**
 
-This dataset is a high-fidelity, enterprise-ready collection of **4,400 biometric-anonymized portraits**. It is engineered for immediate integration into high-performance vision training pipelines.
+This repository contains complete technical manifests, MD5/SHA256 hashes, and audit logs for the **BWS Master Archive** — **534,651+** high-bitrate, human-subject photographic assets.
 
-## 📊 Technical Specifications
-* **Asset Count:** 4,400 images
-* **Payload Size:** ~12GB (Zipped)
-* **Format:** High-bitrate RAW/Lossless JPEG
-* **Forensic Metadata:** MD5/SHA256 hashed manifests included
-* **Anonymization:** Processed via localized biometric destruction pipeline
+## Why BWS Data Solutions?
+- **100% Creator-Owned** — Zero third-party scraping.
+- **CLEAR Act 2026 Compliant** — Federally ready documentation.
+- **GDPR Aligned** + Full Chain of Title.
+- **VLM / Diffusion Optimized** — Rich localized metadata (ethnicity, garment type, lighting, pose, service context, etc.).
+- **Forensic Integrity** — Every file hashed and verifiable.
 
-## 🛡️ Compliance & Legal Shield
-BWS Data Solutions operates under a strict **CLEAR Act 2026** compliance framework.
-* **Ethics:** 100% creator-owned (17 U.S.C. § 106). No third-party scraping.
-* **Legal Readiness:** Designed to satisfy enterprise data-governance standards.
-* **Auditability:** Every asset is mapped to forensic manifests, ready for your legal team's internal audit.
+## 🛡️ Compliance & Provenance Framework
+BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compliance framework.
+- **Provenance Statement**: Every dataset includes a standardized provenance statement verifying 100% creator-owned IP.
+- **Vetting-Ready**: We provide audited MD5/SHA256 manifests, making it frictionless for your legal and technical teams to conduct an immediate "risk-free" audit.
+- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery. 
 
-## 📥 Access & Ingestion
-The raw payload is staged for enterprise delivery:
-`s3://bws-delivery-payloads-2026/Anonymized_Palo_Alto_Portraits.zip`
+## 📊 Archive Overview
+- **Total Assets**: 534,651
+- **Total Size**: ~2.8 TB (RAW + JPEG)
+- **Capture Period**: 2018–2026
+- **Categories**: Studio Fashion, Executive Portraits, Adult Lifestyle, Service Industry, Jewelry/Accessories, Teen/Junior, and more
 
-## 🤝 Licensing & Commercial Procurement
-This archive is licensed for non-exclusive commercial training use. We support rapid enterprise procurement cycles:
-* **Payment Terms:** 50/50 split (50% upfront / 50% on delivery).
-* **Payment Rails:** USDC/USDT settlements supported for 48-hour deal velocity.
-* **Inquiries:** Submit custom SOW requests or S3 access authorization to: **info@brettwilliams.org**
+## 📁 Available Manifests
 
----
+| File | Assets | Description |
+| :--- | :--- | :--- |
+| `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
+| `Anonymized_Palo_Alto_Manifest.csv` | 4,400 | Anonymized high-bitrate portraits |
+| `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion samples |
+| `02_Photo_Booth_Series_100_JPEGs_Manifest.csv` | 100 | Photo booth series |
+| `03_La_Perla_lingerie_30_JPEGs_Manifest.csv` | 30 | Lingerie |
+
+## 🚀 Quick Start & Ingestion
+Clone the repository to explore the forensic manifests:
+
+```bash
+git clone [https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git](https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git)
+cd BWS-Forensic-Manifests-2026

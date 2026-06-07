@@ -2,37 +2,26 @@
 
 **Enterprise-Grade, CLEAR Act 2026 Compliant Human Subject Dataset**
 
-This repository contains complete technical manifests, MD5/SHA256 hashes, and audit logs for the **BWS Master Archive** — **534,651+** high-bitrate, human-subject photographic assets.
+This repository contains technical manifests, MD5/SHA256 hashes, and audit logs for the BWS Master Archive.
 
-## Why BWS Data Solutions?
-- **100% Creator-Owned** — Zero third-party scraping.
-- **CLEAR Act 2026 Compliant** — Federally ready documentation.
-- **GDPR Aligned** + Full Chain of Title.
-- **VLM / Diffusion Optimized** — Rich localized metadata (ethnicity, garment type, lighting, pose, service context, etc.).
-- **Forensic Integrity** — Every file hashed and verifiable.
+## Archive Overview
+* **Total Assets:** 534,651+
+* **Total Size:** ~2.8 TB (RAW + JPEG)
+* **Capture Period:** 2018–2026
 
-## 🛡️ Compliance & Provenance Framework
-BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compliance framework.
-- **Provenance Statement**: Every dataset includes a standardized provenance statement verifying 100% creator-owned IP.
-- **Vetting-Ready**: We provide audited MD5/SHA256 manifests, making it frictionless for your legal and technical teams to conduct an immediate risk-free audit.
-- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery.
+## Compliance & Provenance
+* **CLEAR Act 2026 Compliant:** Federally ready documentation.
+* **Forensic Integrity:** Every file is MD5/SHA256 hashed and verifiable.
+* **Licensing:** Proprietary Media Assets (17 U.S.C. § 106). Non-exclusive licensing via MSA/SOW.
 
-## 📊 Archive Overview
-- **Total Assets**: 534,651+
-- **Total Size**: ~2.8 TB (RAW + JPEG)
-- **Capture Period**: 2018–2026
-- **Categories**: Studio Fashion, Executive Portraits, Adult Lifestyle, Service Industry, Jewelry/Accessories, Teen/Junior, and more
+## Available Manifests
+* **BWS_CLEAR_MASTER_MANIFEST_2026.csv** (534,651 Assets)
+* **Anonymized_Palo_Alto_Manifest.csv** (4,400 Assets)
+* **01_Studio_Fashion_60_JPEGs_Manifest.csv** (60 Assets)
+* **02_Photo_Booth_Series_100_JPEGs_Manifest.csv** (100 Assets)
+* **03_La_Perla_lingerie_30_JPEGs_Manifest.csv** (30 Assets)
 
-## 📁 Available Manifests
-* **`BWS_CLEAR_MASTER_MANIFEST_2026.csv`** (534,651 Assets) — Master inventory + high-level summary.
-* **`Anonymized_Palo_Alto_Manifest.csv`** (4,400 Assets) — Anonymized high-bitrate portraits.
-* **`01_Studio_Fashion_60_JPEGs_Manifest.csv`** (60 Assets) — Studio fashion samples.
-* **`02_Photo_Booth_Series_100_JPEGs_Manifest.csv`** (100 Assets) — Photo booth series.
-* **`03_La_Perla_lingerie_30_JPEGs_Manifest.csv`** (30 Assets) — Lingerie.
+## Ingestion & Support
+For bulk procurement, custom SOW integration, or to request access to the S3 bucket (`s3://bws-delivery-payloads-2026`), contact: [info@brettwilliams.org](mailto:info@brettwilliams.org).
 
-## 🚀 Quick Start & Ingestion
-Clone the repository to explore the forensic manifests:
-
-```bash
-git clone [https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git](https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git)
-cd BWS-Forensic-Manifests-2026
+---

@@ -27,6 +27,16 @@ This repository contains complete technical manifests, MD5/SHA256 hashes, and au
 | `03_La_Perla_lingerie_30_JPEGs_Manifest.csv` | 30 | Lingerie |
 | ... | ... | Full list in repo |
 
+### 🛡️ Compliance & Provenance Framework
+BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compliance framework. 
+- **Provenance Statement**: Every dataset includes a standardized provenance statement verifying 100% creator-owned IP.
+- **Vetting-Ready**: We provide audited MD5/SHA256 manifests, making it frictionless for your legal and technical teams to conduct an immediate "risk-free" audit.
+- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery. Our goal is to minimize your time-to-training.
+
+
+
+---
+
 ### 🚀 Quick Start
 
 ```bash

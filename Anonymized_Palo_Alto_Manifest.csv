@@ -15,7 +15,7 @@ This repository contains complete technical manifests, MD5/SHA256 hashes, and au
 BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compliance framework.
 - **Provenance Statement**: Every dataset includes a standardized provenance statement verifying 100% creator-owned IP.
 - **Vetting-Ready**: We provide audited MD5/SHA256 manifests, making it frictionless for your legal and technical teams to conduct an immediate risk-free audit.
-- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery. 
+- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery.
 
 ## 📊 Archive Overview
 - **Total Assets**: 534,651+
@@ -26,7 +26,7 @@ BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compl
 ## 📁 Available Manifests
 
 | File | Assets | Description |
-|---|---|---|
+| --- | --- | --- |
 | `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
 | `Anonymized_Palo_Alto_Manifest.csv` | 4,400 | Anonymized high-bitrate portraits |
 | `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion samples |
@@ -37,5 +37,5 @@ BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compl
 Clone the repository to explore the forensic manifests:
 
 ```bash
-git clone [https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git](https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git)
+git clone https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git
 cd BWS-Forensic-Manifests-2026

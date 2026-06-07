@@ -1,1 +1,38 @@
+metadata
 
+license: other
+language:
+  - en
+tags:
+  - image-dataset
+  - computer-vision
+  - biometric-anonymized
+  - clear-act-2026
+  - enterprise-ready
+size_categories:
+  - 1K<n<10K
+
+Anonymized Palo Alto Human-Subject Portrait Dataset (POC Archive)
+This dataset is a high-fidelity, enterprise-ready collection of 4,400 biometric-anonymized portraits. It is engineered for immediate integration into high-performance vision training pipelines.
+
+📊 Technical Specifications
+	•	Asset Count: 4,400 images
+	•	Payload Size: ~12GB (Zipped)
+	•	Format: High-bitrate RAW/Lossless JPEG
+	•	Forensic Metadata: MD5/SHA256 hashed manifests included
+	•	Anonymization: Processed via localized biometric destruction pipeline
+
+🛡️ Compliance & Legal Shield
+BWS Data Solutions operates under a strict CLEAR Act 2026 compliance framework.
+	•	Ethics: 100% creator-owned (17 U.S.C. § 106). No third-party scraping.
+	•	Legal Readiness: Designed to satisfy enterprise data-governance standards.
+	•	Auditability: Every asset is mapped to forensic manifests, ready for your legal team's internal audit.
+
+📥 Access & Ingestion
+The raw payload is staged for enterprise delivery: s3://bws-delivery-payloads-2026/Anonymized_Palo_Alto_Portraits.zip
+
+🤝 Licensing & Commercial Procurement
+This archive is licensed for non-exclusive commercial training use. We support rapid enterprise procurement cycles:
+	•	Payment Terms: 50/50 split (50% upfront / 50% on delivery).
+	•	Payment Rails: USDC/USDT settlements supported for 48-hour deal velocity.
+	•	Inquiries: Submit custom SOW requests or S3 access authorization to: info@brettwilliams.org

@@ -1,50 +1,35 @@
-# BWS Master Archive: Forensic Manifests (2026-V12)
+---
 
-**Enterprise-Grade, CLEAR Act 2026 Compliant Human Subject Dataset**
+## 📐 Active Evaluation Sandbox (7-Day Token Presigned Registry)
 
-This repository contains complete technical manifests, MD5/SHA256 hashes, and audit logs for the **BWS Master Archive** — **534,651+** high-bitrate, human-subject photographic assets.
+The following presigned evaluation packages are staged for direct pipeline validation testing within `s3://createphotos`. These endpoints provide high-fidelity, face-neutralized visual sample mass for network validation:
 
-### Why BWS Data Solutions?
-- **100% Creator-Owned** — Zero third-party scraping
-- **CLEAR Act 2026 Compliant** — Federally ready documentation
-- **GDPR Aligned** + Full Chain of Title
-- **VLM / Diffusion Optimized** — Rich localized metadata (ethnicity, garment type, lighting, pose, service context, etc.)
-- **Forensic Integrity** — Every file hashed and verifiable
-
-### 📊 Archive Overview
-- **Total Assets**: 534,651
-- **Total Size**: ~2.8 TB (RAW + JPEG)
-- **Capture Period**: 2018–2026
-- **Categories**: Studio Fashion, Executive Portraits, Adult Lifestyle, Service Industry, Jewelry/Accessories, Teen/Junior, and more
-
-### 📁 Available Manifests
-
-| File | Assets | Description |
-|------|--------|-----------|
-| `BWS_CLEAR_MASTER_MANIFEST_2026.csv` | 534,651 | Master inventory + high-level summary |
-| `01_Studio_Fashion_60_JPEGs_Manifest.csv` | 60 | Studio fashion |
-| `02_Photo_Booth_Series_100_JPEGs_Manifest.csv` | 100 | Photo booth series |
-| `03_La_Perla_lingerie_30_JPEGs_Manifest.csv` | 30 | Lingerie |
-| ... | ... | Full list in repo |
-
-### 🛡️ Compliance & Provenance Framework
-BWS Data Solutions operates under a proprietary **CLEAR Act 2026**-aligned compliance framework. 
-- **Provenance Statement**: Every dataset includes a standardized provenance statement verifying 100% creator-owned IP.
-- **Vetting-Ready**: We provide audited MD5/SHA256 manifests, making it frictionless for your legal and technical teams to conduct an immediate "risk-free" audit.
-- **Licensing Model**: We focus on high-speed, enterprise-licensed, non-exclusive delivery. Our goal is to minimize your time-to-training.
-
-
+*   **📦 Bundle 01 — Studio Apparel Synthesis:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_01_Women_Designer_Dresses_Suits.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132910Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64df723a59655a35f396ee15a567e7f0d551bed0f4dfb759267b1b6650d53dca)
+*   **📦 Bundle 02 — High-End Men's Tailoring Geometric Layers:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_02_Mens_Tailoring.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132910Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2b4ebcf05645eef32268418d0d109109185bf63fe4eb39e26fd2da49d4d88e9)
+*   **📦 Bundle 03 — Technical Drape & Outerwear Contours:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_03_Outerwear_Technical_Designer_Coats.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132911Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4611ca76bfa4c595aa8a4a1d8c4d6f2ef97c4cf3e42a63642f2e2088cdd83339)
+*   **📦 Bundle 04 — Premium Textile Finishes & Intimates Form:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_04_Intimates_Shapewear.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132911Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=baf29f24d36b19ed4d3200ccee3b5c8fc4b432c5ac06957c14bb9675fa5d346a)
+*   **📦 Bundle 05 — Knit Wear Material Synthesis:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_05_Knits_Sweaters_Pants.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132911Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a60cdf2bae517e99f769a8faf51ecb60e3a80b855c5d0bb51a74309a6818630a)
+*   **📦 Bundle 06 — Real-World Performance & Active Kinetics:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_06_Active_Sport.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132911Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=88095d6f35654f799ea55b029671537f5286cabb635d8e736228699b9033af3a)
+*   **📦 Bundle 07 — Luxury Leather Goods & Material Physics:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_07_Accessories_Leather_Scarves_Luxury_Handbags.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132912Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=827ebdb288d28b2856f0a4a9391f2eff0d7a7d7540193e258ef9a17936947894)
+*   **📦 Bundle 09 — High-Variance Human Morphology (Celebrity Node):** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_09_Hollywood_Actors_HeadShots_Dataset_50_JPEGS.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132912Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c78a1c401d024fcfd517adfea1fde4ec272fe15e859795339ad63d1f4699db63)
+*   **📦 Master Evaluation Sandbox Preview Pack:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS_7_Category_Previews.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132912Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13cde4c0c36e2278d0d27ccb33aff587c8fbce563958c0ed6ff2a221ffbcd6ff)
+*   **📦 Primary Pipeline Volume Session Mass:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/BWS__Project_JpeGs_FuLL.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132912Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=900716dc4ab4792e4ddc5bd5f20bcc803c129c610d8ef9a26939b3d11b095c10)
+*   **📦 Service Industry Uniform Contexts (Maid Node):** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/11_Maid_Service_30_Enterprise_POC.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f977d64ae3d48521583c725450386f164420ce4ae8f34c80b766ecb9657f64b)
+*   **📦 Commercial Luxury Artifacts & Jewelry:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/12_Handbags_Jewelry_Sample_Pack_50_Enterprise_POC.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=19d8e0e29ff00c3504c1c6b5d73b3ee1d3542161072bf6c88a98396bed38d085)
+*   **📦 Studio Chromatic Portraiture & Neon Vectors:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/04_Studio_Portraits_Neon_60_Enterprise_POC.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a1c225e9fb78c105f5db12a4668323a346cc9e503a3b7aeba37884c670e0303)
+*   **📦 Avant-Garde Composition & Performance Art Flow:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/16_Amadeus_Performance_Art_60_Enterprise_POC.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c9464867c27e8fea5c3f27b13030435913f52195dffdb558340696c416e828b)
+*   **📦 Executive Identity & Corporate Character Geometry:** [Direct Sandbox Token Download](https://createphotos.s3.us-east-2.amazonaws.com/08_Executive_portraits_50_Enterprise_POC.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQG4WARWX4FT3GA4F%2F20260625%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20260625T132914Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe332a3da1886ccc0996db83a42eea8817ffb2615d99b5f7a7099cd752ca7dc6)
 
 ---
 
-### 🚀 Quick Start
+## ⚖️ Risk Mitigation & Structural Safeguards
+
+*   **Total Face Neutralization Filter:** Assets mapping human subjects are passed through high-fidelity blur-blending parameters. This structural design removes Right of Publicity exposure, biometric indexing flags, and CCPA/GDPR personal entity vectors while maintaining pure structural fidelity, drape textures, and lighting value matrices.
+*   **Defused Legal Bottleneck:** All assets comprise entirely creator-owned historical photography captures recorded prior to modern generative text-to-image framework development (pre-2022). Absolute chain-of-title guarantees 100% de-risked integration, eliminating the data contamination issues common with contemporary scraped scrap piles.
+
+## ⚙️ Pipeline Integration Quick Start
+
+To read and explore the local manifest tables programmatically within your cluster environment, verify your installation mirrors our environment rules (`requirements.txt`) and trigger our loading automation:
 
 ```bash
-git clone https://github.com/bwphotography-arch/BWS-Forensic-Manifests-2026.git
-cd BWS-Forensic-Manifests-2026
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Explore the data
-python example_loader.py
+python3 example_loader.py

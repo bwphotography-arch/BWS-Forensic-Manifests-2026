@@ -1,5 +1,9 @@
 ---
-
+title: BWS Data Solutions
+license: other
+emoji: 🚀
+short_description: "CLEAR Act 2026 Compliant Human-Subject Photography Assets"
+---
 ## 📐 Active Evaluation Sandbox (7-Day Token Presigned Registry)
 
 The following presigned evaluation packages are staged for direct pipeline validation testing within `s3://createphotos`. These endpoints provide high-fidelity, face-neutralized visual sample mass for network validation:
